@@ -109,7 +109,7 @@ function signUP(e){
     
         //storing it in local storage
         localStorage.setItem("usermail",  usermail);
-        window.location.href = "agentDashboard.html";  
+        window.location.href = "homeAdminDashboard.html";  
     }
     
     
